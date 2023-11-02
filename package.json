@@ -1,22 +1,22 @@
 {
-  "name": "fca-EMon-BHai-api",
+  "name": "fca-Shaon-Project-api",
   "version": "1.5.2",
-  "description": "Facebook-chat-api protect and deploy by EMon-BHai",
+  "description": "Facebook-chat-api protect and deploy by Shaon Project",
   "main": "Index.js",
   "scripts": {
     "test": "mocha",
     "lint": "./node_modules/.bin/eslint *.js",
     "prettier": "prettier utils.js src/* --write"
   },
-  "author": "EMon-BHai",
+  "author": "Shaon Project",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Termux-Emon/fca-EMon-BHai-api/issues"
+    "url": "https://github.com/shaonahmed47/fca-Shaon-Project-api/issues"
   },
-  "homepage": "https://github.com/Termux-Emon/fca-EMon-BHai-api#readme",
+  "homepage": "https://github.com/shaonahmed47/fca-Shaon-Project-api#readme",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Termux-Emon/fca-EMon-BHai-api.git"
+    "url": "git://github.com/shaonahmed47/fca-Shaon-Project-api.git"
   },
   "dependencies": {
     "aes-js": "latest",
@@ -86,9 +86,9 @@
     }
   },
   "keywords": [
-    "Fca EMon-BHai",
-    "fca-EMon-BHai-api",
-    "EMon-BHai fca",
-    "EMon-BHai"
+    "Fca Shaon-Project",
+    "fca-Shaon-Project-api",
+    "Shaon-Project fca",
+    "Shaon-Project"
   ]
 }
