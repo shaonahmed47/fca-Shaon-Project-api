@@ -27,7 +27,7 @@ global.Fca = new Object({
             "PreKey": "",
             "AutoUpdate": true,
             "MainColor": "#9900FF",
-            "MainName": "[ EMon-BHai]",
+            "MainName": "[ Shaon-Project ]",
             "Uptime": true,
             "Config": "default",
             "DevMode": false,
